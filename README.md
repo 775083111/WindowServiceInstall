@@ -1,9 +1,9 @@
 # 工具连接
 
 
-[https://github.com/winsw/winsw](https://github.com/winsw/winsw)\
+[https://github.com/winsw/winsw](https://github.com/winsw/winsw)
 
-[https://github.com/nginx/nginx](https://github.com/nginx/nginx)\
+[https://github.com/nginx/nginx](https://github.com/nginx/nginx)
 
 
 
@@ -25,7 +25,8 @@
 ### arguments -- exe 的参数
 ### log -- 日志
 
-## 例子
+
+# 例子
 ```xml
 <service>
   <id>nginx</id>
