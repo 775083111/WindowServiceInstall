@@ -1,0 +1,7 @@
+<service>
+  <id>nginx9527</id>
+  <name>AoPeng-Service</name>
+  <description>傲鹏软件-赣州银行在线充值接口服务</description>
+  <executable>nginx.exe</executable>
+  <arguments>-c conf/nginx.conf</arguments>
+</service>

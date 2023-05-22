@@ -1,0 +1,2 @@
+2023/05/22 14:59:27 [emerg] 18200#18452: CreateFile() "D:\jobfile\frame\nginx/nginx.conf" failed (2: The system cannot find the file specified)
+2023/05/22 15:01:26 [error] 17360#25664: *1 CreateFile() "D:\jobfile\frame\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.68.153, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.68.153:9527", referrer: "http://192.168.68.153:9527/"
